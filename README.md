@@ -1,2 +1,2 @@
-# DAA_Lab1
+# Data Structures
 Binary Search Tree
